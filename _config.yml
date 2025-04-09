@@ -1,1 +1,9 @@
 theme: minima
+
+title: site
+description: description
+
+# Navigation menu
+header_pages:
+  - index.md
+  - about.md
